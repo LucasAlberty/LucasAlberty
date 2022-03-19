@@ -1,5 +1,7 @@
 ### Olá! Sou o Lucas Alberty. 👋
 
+
+
 <div align="center">
   <a href="#">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAlberty&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -24,5 +26,9 @@
 </div>
 
  <br/>
-
+  
+  
   ![dasda](https://user-images.githubusercontent.com/61556295/159133317-9456a360-1ae4-4911-80b7-51df5a41e926.gif)
+
+  
+
