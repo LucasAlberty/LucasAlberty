@@ -1,6 +1,10 @@
 ### Olá! Sou o Lucas Alberty. 👋
 
+Sou estudante em Analise e Desenvolvimento de Sistemas.
 
+No momento estou estágiando, aprendendo muito e formando um conhecimento sólido em desenvolvimento de aplicativos mobile usando React Native. Sou apaixonado em tecnologia e oque ela pode proporcionar na vida das pessoas.
+
+#
 
 <div align="center">
   <a href="#">
