@@ -4,6 +4,12 @@ Sou estudante em Analise e Desenvolvimento de Sistemas.
 
 No momento estou estágiando, aprendendo muito e formando um conhecimento sólido em desenvolvimento de aplicativos mobile usando React Native. Sou apaixonado em tecnologia e oque ela pode proporcionar na vida das pessoas.
 
+> Principal projeto pessoal em desenvolvimento: https://expo.dev/@lucasalberty/goFinances .
+> 
+> Para visualizar este projeto é necessário fazer download do expo go em seu smartphone, você pode encontra-lo na Apple Store e também na Google Play,
+> em seguida escanear o qrCode disponibilizado pelo link acima e prontinho 😀.
+
+
 #
 
 <div align="center">
