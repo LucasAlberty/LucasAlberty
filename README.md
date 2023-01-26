@@ -1,14 +1,8 @@
-### Olá! Sou o Lucas Alberty. 👋
+### Olá! Me chamo Lucas Alberty. 👋
 
 Sou estudante em Analise e Desenvolvimento de Sistemas.
 
 Desenvolvedor Web/Mobile.
-
-> Principal projeto pessoal em desenvolvimento: https://expo.dev/@lucasalberty/goFinances .
-> 
-> Para visualizar este projeto é necessário fazer download do expo go em seu smartphone, você pode encontra-lo na Apple Store e também na Google Play,
-> em seguida escanear o qrCode disponibilizado pelo link acima. Enjoy 😀
-
 
 #
 
