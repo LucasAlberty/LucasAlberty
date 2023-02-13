@@ -1,7 +1,5 @@
 ### Olá! Me chamo Lucas Alberty. 👋
 
-Sou estudante em Analise e Desenvolvimento de Sistemas.
-
 Desenvolvedor Web/Mobile.
 
 #
