@@ -1,6 +1,6 @@
 ### Olá! Me chamo Lucas Alberty. 👋
 
-Desenvolvedor Frontend.
+Desenvolvedor FullStack.
 
 #
 
