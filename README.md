@@ -1,38 +1,37 @@
-### Olá! Me chamo Lucas Alberty. 👋
+# Olá, sou Lucas Alberty 👋
 
-Desenvolvedor FullStack.
+**Software Engineer · React Native · React · TypeScript**  
+Uberlândia, MG — Brasil
 
-#
+Desenvolvo aplicações mobile e web, com experiência em produtos em produção, integrações e evolução de arquitetura. Gosto de transformar problemas do dia a dia em interfaces simples e soluções fáceis de manter.
 
-<div align="center">
-  <a href="#">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAlberty&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlberty&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
- <div style="display: inline_block"><br>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>  
- 
-  #
-  
-  <div> 
-  <a href="https://instagram.com/lucas.spectro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucastheborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucasalbertyborges/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## Experiência
 
- <br/>
-  
-  
-  ![dasda](https://user-images.githubusercontent.com/61556295/159133317-9456a360-1ae4-4911-80b7-51df5a41e926.gif)
+- Desenvolvimento de aplicativos com **React Native e Expo**, incluindo publicação para Android e iOS.
+- Aplicações web com **React e TypeScript** e integrações com **APIs REST e GraphQL**.
+- Evolução de uma plataforma de gestão empresarial para **SaaS multi-tenant**, com monorepo, autenticação centralizada e regras de negócio compartilhadas.
+- Investigação de problemas de desempenho, refatoração e melhoria da experiência de uso.
+- Testes unitários e execução automatizada de testes com **GitHub Actions**.
 
-  
+## Tecnologias
 
+**Mobile e web:** React Native, Expo, React, Next.js, TypeScript e JavaScript.  
+**Estado e formulários:** Zustand, Redux Toolkit, React Hook Form e Zod.  
+**Backend e dados:** Node.js, Firebase Functions, Authentication, Firestore e SQL Server.  
+**Engenharia:** Git, GitHub Actions, monorepo, DDD e modularização.
+
+## Projeto em destaque
+
+### MiGiro
+
+Ferramenta para pequenos vendedores anotarem vendas, acompanharem o estoque e manterem seus clientes por perto.
+
+Desenvolvo o produto com **Expo e Next.js em monorepo**, compartilhando regras de negócio entre mobile e web. No aplicativo, consultas ficam disponíveis após a primeira sincronização e pedidos criados sem conexão são enviados quando a rede volta.
+
+O MVP está em desenvolvimento e possui uma versão de teste para Android.
+
+[Experimentar o MiGiro — build de preview no Expo](https://expo.dev/accounts/alberty-labs/projects/migiro/builds/af4efde2-8c65-4a19-a772-17a44d356c94)
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/lucasalbertyborges/) · [E-mail](mailto:lucasalbertyborges@gmail.com)
